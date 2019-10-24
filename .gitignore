@@ -1,8 +1,5 @@
 data/raw_data/*.jpg
 data/raw_data/*.xml
 data/small_dataset_train.zip
-data/train/*.jpg
-data/validation/*.jpg
-data/test/*.jpg
 env
 camille/.ipynb_checkpoints/
