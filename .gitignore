@@ -6,3 +6,4 @@ data/resized/validation/*.jpg
 data/small_dataset_train.zip
 env
 camille/.ipynb_checkpoints/
+data/resized/
