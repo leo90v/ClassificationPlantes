@@ -9,4 +9,7 @@ data/resized2/validation/*.jpg
 data/small_dataset_train.zip
 env
 camille/.ipynb_checkpoints/
+camille/data/
+leonardo/.ipynb_checkpoints/
+leonardo/data
 data/resized/
