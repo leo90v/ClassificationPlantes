@@ -12,4 +12,6 @@ camille/.ipynb_checkpoints/
 camille/data/
 leonardo/.ipynb_checkpoints/
 leonardo/data
+leonardo/images
+leonardo/*.pth
 data/resized/
