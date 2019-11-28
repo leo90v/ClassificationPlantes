@@ -3,7 +3,15 @@ data/raw_data/*.xml
 data/resized/train/*.jpg
 data/resized/test/*.jpg
 data/resized/validation/*.jpg
+data/resized2/train/*.jpg
+data/resized2/test/*.jpg
+data/resized2/validation/*.jpg
 data/small_dataset_train.zip
 env
 camille/.ipynb_checkpoints/
+camille/data/
+leonardo/.ipynb_checkpoints/
+leonardo/data
+leonardo/images
+leonardo/*.pth
 data/resized/
