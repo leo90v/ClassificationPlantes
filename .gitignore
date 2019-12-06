@@ -15,6 +15,7 @@ leonardo/data
 leonardo/images
 leonardo/*.pth
 data/resized/
+leonardo/plots/*.png
 *.pth
 leonardo/NN Transfer Learning (Resnet 34).ipynb
 leonardo/Neural Style Transfer (Random fun stuff).ipynb
