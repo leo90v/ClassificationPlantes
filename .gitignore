@@ -1,8 +1,6 @@
 data/raw_data/*.jpg
 data/raw_data/*.xml
-data/resized/train/*.jpg
-data/resized/test/*.jpg
-data/resized/validation/*.jpg
+data/resized/
 data/resized2/train/*.jpg
 data/resized2/test/*.jpg
 data/resized2/validation/*.jpg
@@ -14,7 +12,6 @@ leonardo/.ipynb_checkpoints/
 leonardo/data
 leonardo/images
 leonardo/*.pth
-data/resized/
 leonardo/plots/*.png
 *.pth
 leonardo/NN Transfer Learning (Resnet 34).ipynb
