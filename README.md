@@ -17,7 +17,7 @@ The training data should be downloaded placed in './data/raw_data/'
 2. Execute Data Split to create the training, test and validation sets
 3. Execute either Resize or Resize2 to resize the images in the 3 sets
 
-After the initial setup has been done you can either run the linear classifiers or the deep learning models
+After the initial setup has been done you can either run the linear classifiers or the deep learning models. However, dependng on which resizing method you used, you may need to change the classification notebooks to point to the right path where your images are located.
 
 # Linear classification
 
