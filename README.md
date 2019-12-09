@@ -11,7 +11,7 @@
 
 # Setup
 
-The training data should be downloaded placed in './data/raw_data/'
+The training data can be downloaded from https://seafile.lirmm.fr/f/5d7dc75bcfbb49b991ca/?dl=1. Once it has been downloaded, it should be placed in './data/raw_data/'
 
 1. Run XML2CSV in order to convert all the xml metadata files into a single csv
 2. Execute Data Split to create the training, test and validation sets
