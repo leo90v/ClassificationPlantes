@@ -22,7 +22,7 @@ After the initial setup has been done you can either run the linear classifiers 
 # Linear classification
 
 1. Run HoG Features Extractor 
-2. Run notebook Linear Classification
+2. Run notebook BaseLine_ClassifieursLineaires
 
 # Neural Networks
 
