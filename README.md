@@ -5,7 +5,7 @@
 * Etude des donnée: This notebook shows general statistics about the data we work with.
 * Resize: This notebook resizes all the pictures for the specified set. It's a simple resize, the original aspect ratio of the image is not taken into account.
 * Resize2: This notebook resizes all the pictures for the specified set. The method resizes the shorter side of the image to the specified value and then crops the other dimension at the center while keeping the same size for both dimensions.
-* Linear Classification: This notebook does a naive classification, a linear classification with no image preprocessing and a linear classification using HoG features.
+* BaseLine_ClassifieursLineaires: This notebook does a naive classification, a linear classification with no image preprocessing and a linear classification using HoG features.
 * Neural Networks from Scratch: This notebook defines a CNN and MLP networks and trains them from scratch.
 * Neural Network Transfer Learning: This notebook performs transfer learning using ResNet18 and ResNet101 which have been pretrained on ImageNet.
 
